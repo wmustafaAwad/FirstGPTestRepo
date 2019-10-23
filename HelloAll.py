@@ -6,4 +6,5 @@ print('Hello, this is Tasneem, ya w7oosh')
 print('bagarab a3mel pull-Tasneem')
 
 print('Nadine likes that Waleed likes leh bydary keda:"D')
+print('Tasneem likes alalaalalalala elwad da meen da da meen da')
 
